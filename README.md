@@ -1,5 +1,5 @@
 
-# EquiData: Herramienta para la Mitigación del Sesgo de Género en Datos
+# EquiData: Herramienta para la Mitigación del Sesgo en Datos
 
 EquiData es una biblioteca de Python diseñada para identificar y mitigar el sesgo de género en conjuntos de datos y análisis. Nuestro objetivo es promover la equidad de género en la ciencia de datos y la inteligencia artificial, proporcionando herramientas accesibles para analizar y corregir sesgos inadvertidos en los datos.
 
